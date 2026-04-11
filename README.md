@@ -8,82 +8,122 @@
 
 </div>
 
----
-
-### 🧑‍💻 About Me
-
-```ts
-const jakub = {
-  role:     "Solo Founder & Developer",
-  location: "Czech Republic 🇨🇿",
-  focus:    "Building opinionated products for the CZ/SK market",
-  stack:    ["Next.js", "TypeScript", "React Native", "Supabase"],
-  building: ["Housíkova Zpověď", "Maturita AI", "Živio", "Lead Gen Network"],
-  currentlyLearning: "AI-powered UX & growth loops",
-};
-```
+<br/>
 
 ---
 
-### 🚀 Active Projects
+<br/>
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| **[Housíkova Zpověď](https://github.com/J4kub98)** | CZ party & confession mobile game · App Store + Google Play | 🟢 Live |
-| **[Maturita AI](https://github.com/J4kub98)** | Gamified study platform for Czech high schoolers (XP, streaks, SM-2) | 🔨 WIP |
-| **[Živio](https://github.com/J4kub98)** | Financial assistant for CZ freelancers (OSVČ) · Gemini Vision AI | 🔨 WIP |
-| **Lead Gen Network** | ~20 SEO-driven lead gen sites in CZ home improvement niches | 📈 Scaling |
+<table width="100%">
+  <tr>
+    <td valign="top" width="60%">
+
+**Solo founder building opinionated software for the Czech market.** I work across the full stack — from mobile apps to AI-powered web tools — with a focus on clean UX and real-world utility.
+
+Currently shipping:
+- 📱 a **party game** on the App Store & Google Play
+- 🎓 a **gamified study platform** for high schoolers
+- 💼 a **financial tool** for Czech freelancers
+- 🌐 a **network of SEO lead gen sites** in home improvement niches
+
+    </td>
+    <td valign="top" align="right" width="40%">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat-square&logo=nextdotjs&logoColor=white&color=000000)
+![React Native](https://img.shields.io/badge/React_Native-informational?style=flat-square&logo=react&logoColor=white&color=20232a)
+![Supabase](https://img.shields.io/badge/Supabase-informational?style=flat-square&logo=supabase&logoColor=white&color=3ECF8E)
+![Tailwind](https://img.shields.io/badge/Tailwind-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=38BDF8)
+![Prisma](https://img.shields.io/badge/Prisma-informational?style=flat-square&logo=prisma&logoColor=white&color=2D3748)
+![Vercel](https://img.shields.io/badge/Vercel-informational?style=flat-square&logo=vercel&logoColor=white&color=000000)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-informational?style=flat-square&logo=google&logoColor=white&color=4285F4)
+
+  </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
-### 🛠️ Tech Stack
+## Projects
 
-#### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+<br/>
 
-#### Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Prisma](https://img.shields.io/badge/Prisma-0d0d0d?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🃏 Housíkova Zpověď</h3>
+      <p>CZ party & confession mobile game with dark premium UI. Built with React Native + TypeScript.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/App_Store-available-black?style=for-the-badge&logo=apple&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Google_Play-available-black?style=for-the-badge&logo=googleplay&logoColor=3DDC84" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Maturita AI</h3>
+      <p>Gamified study platform for Czech high schoolers — XP, streaks, and spaced repetition (SM-2).</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Stack-Next.js_%7C_Supabase_%7C_TypeScript-a855f7?style=for-the-badge&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-In_Development-f59e0b?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 Živio</h3>
+      <p>Financial assistant for Czech freelancers (OSVČ) — AI receipt scanning with Gemini Vision, PDF invoices.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Stack-Next.js_%7C_Prisma_%7C_Gemini-a855f7?style=for-the-badge&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-In_Development-f59e0b?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Lead Gen Network</h3>
+      <p>~20 SEO-driven sites targeting CZ home improvement niches — solar, heat pumps, roofing, EV charging.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Stack-Next.js_%7C_Vercel_%7C_SEO-a855f7?style=for-the-badge&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-Scaling-22c55e?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
-#### Tools & Platforms
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-0d0d0d?style=for-the-badge&logo=linear&logoColor=5E6AD2)
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-0d0d0d?style=for-the-badge&logo=google&logoColor=4285F4)
+<br/>
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
+
+<br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=J4kub98&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d0d0d&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=J4kub98&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d0d0d&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4kub98&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=ffffff&bg_color=0d0d0d&langs_count=6" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4kub98&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=ffffff&bg_color=0d0d0d&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=J4kub98&theme=transparent&hide_border=true&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888&background=0d0d0d" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=J4kub98&theme=transparent&hide_border=true&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888&background=0d0d0d" />
 
 </div>
 
----
-
-### 📬 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/kubahousa@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kubahousa@gmail.com)
-
-</div>
+<br/>
 
 ---
 
+<br/>
+
 <div align="center">
-  <sub>Solo building · Czech Republic · <a href="https://github.com/J4kub98">github.com/J4kub98</a></sub>
+
+[![Email](https://img.shields.io/badge/jakubhousa@protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jakubhousa@protonmail.com)
+
+<br/><br/>
+
+<sub>Solo building · Czech Republic · <a href="https://github.com/J4kub98">github.com/J4kub98</a></sub>
+
 </div>
