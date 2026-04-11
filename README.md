@@ -5,7 +5,7 @@
 <br/>
 
 Solo founder and developer from the Czech Republic.
-Building opinionated software — clean UI, real utility, ships fast.
+Building opinionated software.
 
 <br/>
 
