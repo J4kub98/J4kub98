@@ -25,13 +25,6 @@ Currently building: **[Housíkova Zpověď](https://github.com/J4kub98)** · **[
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=J4kub98&show_icons=true&theme=dark&hide_border=true&title_color=a855f7&icon_color=a855f7&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4kub98&layout=compact&theme=dark&hide_border=true&title_color=a855f7&langs_count=5" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=J4kub98&theme=transparent&hide_border=true&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888&background=0d0d0d" />
 
 </div>
