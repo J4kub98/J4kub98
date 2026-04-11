@@ -17,15 +17,25 @@ Building opinionated software — clean UI, real utility, ships fast.
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="20" width="100%">
   <tr>
-    <td align="center" width="320" style="padding: 0 16px;">
-      <h3>🃏 Housíkova Zpověď</h3>
-      <p>CZ party & confession mobile game<br/>React Native · App Store · Google Play</p>
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/Mobile_App-a855f7?style=flat-square&logoColor=white" />
+      <br/><br/>
+      <strong>Housíkova Zpověď</strong>
+      <br/><br/>
+      <sub>CZ party & confession game<br/>React Native · App Store · Google Play</sub>
+      <br/><br/>
     </td>
-    <td align="center" width="320" style="padding: 0 16px;">
-      <h3>🌐 Lead Gen Network</h3>
-      <p>~20 SEO-driven sites in CZ<br/>home improvement niches · Next.js · Vercel</p>
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/SEO_·_Web-a855f7?style=flat-square&logoColor=white" />
+      <br/><br/>
+      <strong>Lead Gen Network</strong>
+      <br/><br/>
+      <sub>~20 sites in CZ home improvement niches<br/>Next.js · Vercel</sub>
+      <br/><br/>
     </td>
   </tr>
 </table>
