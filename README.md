@@ -13,7 +13,7 @@ Building opinionated software.
 
 <br/>
 
-**Public projects I'm currently working on**
+**Featured projects I'm currently working on**
 
 <br/>
 
