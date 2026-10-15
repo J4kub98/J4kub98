@@ -1,76 +1,24 @@
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"><img width="100%" alt="Jakub Housa — Building opinionated software" src="./assets/hero-light.svg"></picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Jakub+Housa+%F0%9F%91%8B;Solo+Founder+%26+Full-Stack+Developer;Building+products+for+the+CZ+market" alt="Typing SVG" />
+Solo founder & full-stack developer from the Czech Republic,<br/>
+building products for the CZ market.
 
-<br/>
+<a href="mailto:jakubhousa@protonmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/button-dark.svg"><img alt="Get in touch" src="./assets/button-light.svg"></picture></a>
 
-Solo founder and developer from the Czech Republic.
-Building opinionated software.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/label-building-dark.svg"><img width="100%" alt="Now building" src="./assets/label-building-light.svg"></picture>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-housik-dark.svg"><img width="50%" alt="Housíkova Zpověď — CZ party & confession game, React Native" src="./assets/card-housik-light.svg"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-leadgen-dark.svg"><img width="50%" alt="Lead Gen Network — ~20 sites in CZ home improvement niches, Next.js" src="./assets/card-leadgen-light.svg"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/label-stack-dark.svg"><img width="100%" alt="Stack" src="./assets/label-stack-light.svg"></picture>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"><img width="100%" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS" src="./assets/stack-light.svg"></picture>
 
-**Featured projects I'm currently working on**
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/label-activity-dark.svg"><img width="100%" alt="Activity" src="./assets/label-activity-light.svg"></picture>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=J4kub98&hide_border=true&background=00000000&card_width=880&ring=00000000&fire=00000000&stroke=3D444D&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=9198A1&sideLabels=9198A1&dates=6E7681"><img width="100%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=J4kub98&hide_border=true&background=00000000&card_width=880&ring=00000000&fire=00000000&stroke=D1D9E0&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=59636E&sideLabels=59636E&dates=8C959F"></picture>
 
-<table border="0" cellspacing="0" cellpadding="20" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <br/>
-      <img src="https://img.shields.io/badge/Mobile_App-a855f7?style=flat-square&logoColor=white" />
-      <br/><br/>
-      <strong>Housíkova Zpověď</strong>
-      <br/><br/>
-      <sub>CZ party & confession game<br/>React Native · App Store · Google Play</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="50%">
-      <br/>
-      <img src="https://img.shields.io/badge/SEO_·_Web-a855f7?style=flat-square&logoColor=white" />
-      <br/><br/>
-      <strong>Lead Gen Network</strong>
-      <br/><br/>
-      <sub>~20 sites in CZ home improvement niches<br/>Next.js · Vercel</sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J4kub98/J4kub98/output/snake-dark.svg"><img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/J4kub98/J4kub98/output/snake-light.svg"></picture>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="">
 
----
-
-<br/>
-
-**Languages & Tools**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,nextjs,react&theme=dark" />
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=J4kub98&hide_border=true&border_radius=8&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=888888&dates=666666&background=00000000&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-[![Email](https://img.shields.io/badge/jakubhousa@protonmail.com-a855f7?style=flat-square&logo=protonmail&logoColor=white)](mailto:jakubhousa@protonmail.com)
-
-<br/>
-<br/>
-
-</div>
+<a href="mailto:jakubhousa@protonmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"><img width="100%" alt="Write me: jakubhousa@protonmail.com" src="./assets/footer-light.svg"></picture></a>
